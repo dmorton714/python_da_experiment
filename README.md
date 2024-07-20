@@ -37,7 +37,8 @@ Explaining the cleaning from chapter 4..
 Rythem of book Quick section of doing 
 Then section explaining each element in detail  -->
 
-
+Not in docker so removed instructions. 
+Also not finished so it has no **`requirements.txt`**
 
 ###  Virutal Environment Instructions
 
@@ -56,7 +57,7 @@ Virtual Environment Commands
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 | Deactivate | `deactivate` | `deactivate` |
 
-|To Run In Docker|
+<!-- |To Run In Docker|
 | --- | 
 | `docker build . --tag v_game:latest` |
-| `docker run -it -p 8888:8888 v_game:latest` |
+| `docker run -it -p 8888:8888 v_game:latest` | -->
